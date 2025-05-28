@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "license": "MIT",
+  "devDependencies": {
+    "@repo/typescript-config": "workspace:*"
+  },
   "publishConfig": {
     "access": "public"
   }
